@@ -14,7 +14,7 @@ Este proyecto consta de un script en Python que permite conectarse a servidores 
 1. **Clona o descarga el repositorio:**
 
     ```bash
-    git clone https://github.com/tuusuario/remote-connector.git
+    https://github.com/CodingJAndres/remote-connector.git
     ```
 
 2. **Navega al directorio del proyecto:**
